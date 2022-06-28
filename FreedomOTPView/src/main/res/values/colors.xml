@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="otp_default_hint_color">#C5C5C5</color>
+    <color name="otp_default_text_color">#5A5A5A</color>
+    <color name="otp_default_bg_stroke_color">#7A7A7A</color>
+</resources>

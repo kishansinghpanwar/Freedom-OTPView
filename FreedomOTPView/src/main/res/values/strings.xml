@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="otp">otp</string>
+    <string name="star">*</string>
+    <string name="hash">#</string>
+</resources>

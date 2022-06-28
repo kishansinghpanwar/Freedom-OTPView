@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FreedomOTPView Example</string>
+    <string name="default_text">Default:</string>
+    <string name="custom">Custom(from XML):</string>
+    <string name="custom_from_code">Custom(from Code):</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OTPView">
+        <attr name="otpLength" format="integer" />
+        <attr name="otpTextSize" format="dimension" />
+        <attr name="otpTextColor" format="color" />
+        <attr name="otpHintTextColor" format="color" />
+        <attr name="otpHintText" format="string" />
+        <attr name="otpBackground" format="integer" />
+        <attr name="otpMargin" format="dimension" />
+        <attr name="otpHeight" format="dimension" />
+        <attr name="otpWidth" format="dimension" />
+    </declare-styleable>
+</resources>
