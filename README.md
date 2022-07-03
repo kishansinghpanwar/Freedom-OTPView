@@ -1,8 +1,7 @@
 
 # Freedom-OTPView [![](https://jitpack.io/v/kishansinghpanwar/FreedomOTPView.svg)](https://jitpack.io/#kishansinghpanwar/FreedomOTPView)
 
-A readymade OTP View, which gives you the freedom to customize every settings which is visible to the user. 
-
+A ready-made OTP View, which gives you the freedom to customize every setting of the UI.
 
 **Sample App (Light & Dark Mode):**
 
@@ -10,11 +9,11 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
 
  **Features:**
  - This library supports the OTP View with unlimited digits, you can achieve this by just adding a single line property and the library will draw OTP boxes for you.
- - Ready to use: This library has tested on 15+ live apps and 1000+ devices.
-- Fully customizable settings: You can change everything, the library has option to update every property which is visible to the user (Box background, Text size, Text color, Hint text, Hint color, Height - Width, Margin and many more..)
+- Ready to use: This library has been tested on 15+ live apps and 1000+ devices.
+- Fully customizable settings: You can change everything, the library has the option to update every property which is visible to the user (Box background, Text size, Text color, Hint text, Hint color, Height - Width, Margin and many more..)
 - Have inbuilt functions to validate OTP size.
-- Scroll support if OTP digit length are more than 6 Digits.
-- Support dark and light both modes.
+- Scroll support if OTP digit length is more than 6 Digits.
+- Support dark and light(both) modes.
 - You can customize the properties directly from XML or Code.
 
 
@@ -148,7 +147,7 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
 	
 ## Support
 
-For support, email singhkishanpanwar@gmail.com or send message to Skype id: https://join.skype.com/invite/fBcaUWiNAWTh
+For support, email singhkishanpanwar@gmail.com or send message to Skype : https://join.skype.com/invite/fBcaUWiNAWTh
 
 
 
