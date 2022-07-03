@@ -146,4 +146,9 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
 
 
 	
+## Support
+
+For support, email singhkishanpanwar@gmail.com or send message to Skype id: https://join.skype.com/invite/fBcaUWiNAWTh
+
+
 
