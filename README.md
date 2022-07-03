@@ -1,3 +1,4 @@
+
 # Freedom-OTPView [![](https://jitpack.io/v/kishansinghpanwar/AutoPlayer.svg)](https://jitpack.io/#kishansinghpanwar/AutoPlayer)
 
 A readymade OTP View, which gives you the freedom to customize every settings which is visible to the user. 
@@ -80,4 +81,69 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
    
    
    
-**Properties :**
+    ------
+    
+   
+ **Properties :**
+
+    
+   
+
+ - **OTP Boxes Length :**
+	  This library supports dynamic OTP length, the library will create the OTP boxes automatically according to you set the size of OTP view length.<br/>
+	  you can set OTP length through these properties :<br/>
+	from XML : `app:otpLength="5"` <br/>
+	from Code: `builder.setOTPLength(5)`
+
+ - **Boxes Height :**
+	 You can set Height of the Box according to your UI design.<br/>
+	 for set the Height you can use these properties :<br/>
+	 from XML : `app:otpHeight="40dp"` <br/>
+	from Code: `builder.setHeight(130)`
+	
+ - **Boxes Width :**
+	 You can set Width of the Box according to your UI design.<br/>
+	 for set the Width you can use these properties :<br/>
+	 from XML : `app:otpWidth="40dp"` <br/>
+	from Code: `builder.setWidth(100)`
+	
+ - **Margin between Boxes :**
+	 You can set the Margin between 2 or Multiple boxes according to your UI design.<br/>
+	 for set the Margin you can use these properties :<br/>
+	 from XML : `app:otpMargin="8dp"` <br/>
+	from Code: `builder.setMargin(8)`
+	
+ - **Hint Text:**
+	 Using Hint Text property, you can set the hint text of OTP Boxes, the same hint will apply on all boxes automatically.<br/>
+	 for set the Hint text you can use these properties :<br/>
+	 from XML : `app:otpHintText="#"` <br/>
+	from Code: `builder.setHintText(8)`<br/>
+	for example you  can set :  `# ,  * , &` etc...
+	
+ - **Hint Text Color:**
+	 Using Hint Text Color property, you can set the color of hint text in OTP Boxes, the same hint color will apply on all boxes automatically.<br/>
+	 for set the Hint color you can use these properties :<br/>
+	 from XML : `app:otpHintTextColor="#DDC9FF"`<br/>
+	from Code: `builder.setHintColor(color)`
+	
+ - **Text Size:**
+	 Using Text Size property, you can set the size of text in OTP Boxes, the same size will apply on all boxes automatically.<br/>
+	 for set the Text size  you can use these properties :<br/>
+	 from XML : `app:otpTextSize="10sp"`<br/>
+	from Code: `builder.setTextSize(22)`
+	
+ - **Text Color:**
+	 Using Text Color property, you can set the color of text in OTP Boxes, the same color will apply on all boxes automatically.<br/>
+	 for set the Text color you can use these properties :<br/>
+	 from XML : `app:otpTextColor="#64B5F6"`<br/>
+	from Code: `builder.setTextColor(ContextCompat.getColor(this, R.color.color_text_color_from_code))`
+	
+ - **OTP Boxes Background:**
+	 Using Background property, you can set the background of OTP Boxes which can be a color or drawable, you can create your own drawable and set it as background of boxes according to your UI design, the same background will be apply on all boxes automatically.<br/>
+	 for set the Background you can use these properties :<br/>
+	 from XML : `app:otpBackground="@drawable/bg_otp"`<br/>
+	 from Code: `builder.setBackground(ContextCompat.getDrawable(this, R.drawable.bg_otp_rectangle_code))`
+
+
+	
+
