@@ -6,7 +6,7 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
 
 **Sample App (Light & Dark Mode):**
 
-<img src="https://github.com/kishansinghpanwar/FreedomOTPView/blob/master/screenshot/Screenshot_20220626_233146.png" width="180" >  <img src="https://github.com/kishansinghpanwar/FreedomOTPView/blob/master/screenshot/Screenshot_20220626_233220.png" width="180">
+<img src="https://github.com/kishansinghpanwar/FreedomOTPView/blob/master/screenshot/Screenshot_light_mode.png" width="180" >  <img src="https://github.com/kishansinghpanwar/FreedomOTPView/blob/master/screenshot/Screenshot_night_mode.png" width="180">
 
  **Features:**
  - This library supports the OTP View with unlimited digits, you can achieve this by just adding a single line property and the library will draw OTP boxes for you.
