@@ -3,4 +3,7 @@
     <string name="default_text">Default:</string>
     <string name="custom">Custom(from XML):</string>
     <string name="custom_from_code">Custom(from Code):</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="invalid_otp">Please enter valid OTP</string>
+    <string name="your_otp_is">The OTP you have entered is : %s and the length of OTP View is : %d</string>
 </resources>
