@@ -1,5 +1,5 @@
 
-# Freedom-OTPView [![](https://jitpack.io/v/kishansinghpanwar/AutoPlayer.svg)](https://jitpack.io/#kishansinghpanwar/AutoPlayer)
+# Freedom-OTPView [![](https://jitpack.io/v/kishansinghpanwar/FreedomOTPView.svg)](https://jitpack.io/#kishansinghpanwar/FreedomOTPView)
 
 A readymade OTP View, which gives you the freedom to customize every settings which is visible to the user. 
 
@@ -34,7 +34,7 @@ A readymade OTP View, which gives you the freedom to customize every settings wh
  - Step 2. Add the dependency
 	```
 	dependencies {
-	    implementation 'com.github.kishansinghpanwar:AutoPlayer:v1.0.0'
+	     implementation 'com.github.kishansinghpanwar:FreedomOTPView:v1.0'
 	}
 	```
   
