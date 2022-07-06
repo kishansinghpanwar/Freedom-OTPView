@@ -30,7 +30,16 @@ A ready-made OTP View, which gives you the freedom to customize every setting of
 	}
 	 ```  
    
- - Step 2. Add the dependency
+ - Step 2. Add the dependency<br/><br/>
+ 	For new Kotlin version:
+	
+	```
+	dependencies {
+	      implementation 'com.github.kishansinghpanwar:FreedomOTPView:v2.0'
+	}
+	```
+	
+ 	For old Java version:
 	```
 	dependencies {
 	     implementation 'com.github.kishansinghpanwar:FreedomOTPView:v1.0'
